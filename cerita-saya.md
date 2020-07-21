@@ -2,7 +2,7 @@ perkenalkan nama saya
 nama : Miyandi Riski A
 asal : Kepahiang, Bengkulu, Indonesia
 tgl  : 27 Mei 2000
-team : Bengkulu Coder Security Elite
+team : Bengkulu Cyber Team Security 
 
 saya bukan seorang ahli IT
 lebih tepat nya saya menyukai Fisika
